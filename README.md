@@ -1,6 +1,10 @@
 # [T2] Papillon빠삐용
 **빠**지지 말고 **삐**지지 말고 **용**서하며 프로젝트 하자!
 
+| **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
+| :------: |  :------: | :------: | :------: |
+| [ <br/> 고라희](https://github.com/raheego) | [ <br/> 최원규](https://github.com/choi3179) | [ <br/> 우지영](https://github.com/Afresh2) | [ <br/> 김단아](https://github.com/dana096) | 
+
 ## 개요
 - Topic : 효율적인 업무를 위한 일정 관리 시스템
 - Role
