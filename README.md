@@ -15,3 +15,6 @@
      - 지영 : 취업준비 할 때 활용할 수 있도록 프로젝트 과정을 git에 잘 정리하기
      - 단아 : GIT을 잘 활용하여 프로젝트의 일정과 과정을 명확하고 투명하게 관리하기
 - Tea Time : 매주 금요일 오후 2시
+
+## WBS
+- https://docs.google.com/spreadsheets/d/1JM_4lKXA1SdrdyjNJWSlP8WQ5DpfL6x7uXK3DOaQbQs/edit#gid=1991800281
