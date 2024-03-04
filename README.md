@@ -3,7 +3,7 @@
 
 | **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
 | :------: |  :------: | :------: | :------: |
-| [ <br/> 고라희](https://github.com/raheego) | [ <br/> 최원규](https://github.com/choi3179) | [ <br/> 우지영](https://github.com/Afresh2) | [ <br/> 김단아](https://github.com/dana096) | 
+| [고라희](https://github.com/raheego) | [최원규](https://github.com/choi3179) | [우지영](https://github.com/Afresh2) | [김단아](https://github.com/dana096) | 
 
 ## 개요
 - Topic : 효율적인 업무를 위한 일정 관리 시스템
