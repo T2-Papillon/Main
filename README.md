@@ -1,17 +1,14 @@
 # [T2] Papillon빠삐용
 **빠**지지 말고 **삐**지지 말고 **용**서하며 프로젝트 하자!
 
+## 개요
+- Topic : 효율적인 업무를 위한 일정 관리 시스템
+- Role
+  
 | **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
 | :------: |  :------: | :------: | :------: |
 | [고라희](https://github.com/raheego) | [최원규](https://github.com/choi3179) | [우지영](https://github.com/Afresh2) | [김단아](https://github.com/dana096) | 
 
-## 개요
-- Topic : 효율적인 업무를 위한 일정 관리 시스템
-- Role
-     - Project Manager: 고라희
-     - Tech Leader: 최원규
-     - Agile Coach: 우지영
-     - Git Manager: 김단아
 
 ## 목표
 - 팀 목표 : 1일 1커밋 - 소통과 화합이 제일이다
@@ -25,6 +22,6 @@
 - https://docs.google.com/spreadsheets/d/1JM_4lKXA1SdrdyjNJWSlP8WQ5DpfL6x7uXK3DOaQbQs/edit#gid=1991800281
 
 ## CheerUp! 
-- 주간회의 : 매주 금요일 퇴근전, 이번주 진행상황 및 차주 계획 수립
-- Tea Time : 매주 금요일 오후 2시
+- 주간회의 📃 : 매주 금요일 퇴근전, 이번주 진행상황 및 차주 계획 수립
+- Tea Time ☕ : 매주 금요일 오후 2시
 
