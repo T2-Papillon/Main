@@ -36,7 +36,7 @@
      - 단아 : GIT을 잘 활용하여 프로젝트의 일정과 과정을 명확하고 투명하게 관리하기
 <br /><br /><br />
 
-## Ground Rule
+## 🛠️Ground Rule
 - 협력과 효율성을 극대화하기 위한 규칙
      <details>
      <summary>살펴보기</summary>
