@@ -88,7 +88,7 @@
 
 ## 📜팀문서
 - [전체문서모음](https://docs.google.com/spreadsheets/d/15cNpF7WvBuCEpo1JbXddN155jl0oJ3iLvKyP7othMbc/edit#gid=0)
-- [프로젝트 기획서](https://docs.google.com/document/d/1HPsK3XY-WgVD8-4Kq4evINS1ANwiXmAckhbbq8fnMxQ/edit)
+- [프로젝트 기획서](https://docs.google.com/document/d/14_OCQUN53yx0ezuzMIKfJHJBSKVhdMJ4ZnMlS7IeeJI/edit?usp=sharing)
 - [WBS](https://docs.google.com/spreadsheets/d/1JM_4lKXA1SdrdyjNJWSlP8WQ5DpfL6x7uXK3DOaQbQs/edit#gid=1991800281)
 <br /><br /><br />
 
