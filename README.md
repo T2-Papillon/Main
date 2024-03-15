@@ -12,7 +12,7 @@
 
 <br /><br />
 
-## 🪄기술 스택
+## 🪄 기술 스택
  IDE <br />
  ![intellij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![STS](https://img.shields.io/badge/STS-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br />
  DB <br /> 
@@ -89,7 +89,7 @@
 ## 📜팀문서
 - [전체문서모음](https://docs.google.com/spreadsheets/d/15cNpF7WvBuCEpo1JbXddN155jl0oJ3iLvKyP7othMbc/edit#gid=0)
 - [프로젝트 기획서](https://docs.google.com/document/d/14_OCQUN53yx0ezuzMIKfJHJBSKVhdMJ4ZnMlS7IeeJI/edit?usp=sharing)
-- [WBS](https://docs.google.com/spreadsheets/d/1JM_4lKXA1SdrdyjNJWSlP8WQ5DpfL6x7uXK3DOaQbQs/edit#gid=1991800281)
+- [WBS](https://docs.google.com/spreadsheets/d/121Nckb6dqfoVAKGlmUqbjkRqsxcyTI9s9E84lM50O2c/edit#gid=1269522515)
 <br /><br /><br />
 
 ## 🎉CheerUp! 
