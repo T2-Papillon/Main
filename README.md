@@ -8,17 +8,17 @@
   
 | **Project Manager** | **Tech Leader** | **Agile Coach** |  **Git Manager** |
 | :------: |  :------: | :------: | :------: |
-| [고라희](https://github.com/raheego) | [최원규](https://github.com/choi3179) | [우지영](https://github.com/Afresh2) | [김단아](https://github.com/dana096) |
+| 🐱 [고라희](https://github.com/raheego) | 🐺 [최원규](https://github.com/choi3179) | 🐹 [우지영](https://github.com/Afresh2) | 🐷 [김단아](https://github.com/dana096) |
 
 <br /><br />
 
 ## 🪄 기술 스택
  IDE <br />
- ![intellij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![STS](https://img.shields.io/badge/STS-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br />
+ ![intellij](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) <br />
  DB <br /> 
 ![mariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)  
  BACKEND<br />
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![apachmaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)   <br />
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot JPA](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![apachmaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)   <br />
  FRONTEND<br />
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) <br />
 버전 관리<br />
@@ -42,15 +42,15 @@
      <summary>살펴보기</summary>
 
      (1) 집중 시간 : "강의실 내에서" 회의 및 대화를 자제하는 시간(필요 시 최대한 조용히)
-     - 오전 10:00~12:00
-     - 오후 15:00~17:00
+     - 오후 16:00~16:50
      <br /> 
      (2) 주간 PM, AC, TL 회의 <br /> 
      - 매주 금요일 17:00 <br /> 
      - 대형 모니터는 TL회의에서 사용 <br /> 
      - PM회의 : 프로젝트 진행 현황 회의 <br /> 
      - AC회의 : 각 팀별 건의사항에 대한 회의 <br /> 
-     - TL회의 : 각 팀별 기술에 대한 이슈 회의 <br /> 
+     - TL회의 : 각 팀별 기술에 대한 이슈 회의 <br />
+     - GM회의 : 각 팀별 Git 관련 이슈 회의 <br />
      <br /> 
      (3) 대형 모니터 예약하는 방법 <br /> 
      - 목적 : 팀 내 회의(1시간) / 강사님한테 질문(1시간) <br />
@@ -88,8 +88,12 @@
 
 ## 📜팀문서
 - [전체문서모음](https://docs.google.com/spreadsheets/d/15cNpF7WvBuCEpo1JbXddN155jl0oJ3iLvKyP7othMbc/edit#gid=0)
-- [프로젝트 기획서](https://docs.google.com/document/d/14_OCQUN53yx0ezuzMIKfJHJBSKVhdMJ4ZnMlS7IeeJI/edit?usp=sharing)
-- [WBS](https://docs.google.com/spreadsheets/d/121Nckb6dqfoVAKGlmUqbjkRqsxcyTI9s9E84lM50O2c/edit#gid=1269522515)
+- [프로젝트 기획서](https://drive.google.com/drive/folders/1HGCGV0myYqw53oVy7QDW4aFb6HHR7ZII)
+- [요구사항 명세서](https://docs.google.com/spreadsheets/d/1q7Ys4uEk6kUjWRXpIjohjfTJd68dlBrw/edit?rtpof=true)
+- [화면 설계서](https://drive.google.com/drive/folders/1hIuw1HeaFUF8rBgUqUllVU-_kV5-y5ER)
+- [ERD](https://drive.google.com/drive/folders/1xY74msGx10FCRb2Neq9UOdtKtS7irC1l)
+- [WBS](https://docs.google.com/spreadsheets/d/10HXRMmvgvw2YoaishMT4gK8Laz3EdN80/edit#gid=39211799)
+- [시스템 아키텍쳐](https://drive.google.com/drive/folders/1O9TCPvIcSGRujvVlfM2Q5x4jy_3C52oQ)
 <br /><br /><br />
 
 ## 🎉CheerUp! 
